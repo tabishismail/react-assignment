@@ -1,0 +1,38 @@
+h1{
+    background-color: rgb(7, 7, 170);
+    color: yellow;
+    padding: 10px;
+    width:400px;
+    margin: 0 0;
+}
+.heading{
+    background-color: rgb(6, 6, 68);
+    color: yellow;
+    padding: 10px;
+    width: 100%;
+}
+.myDiv{
+    background-color: rgb(127, 127, 243);
+    padding: 5px;
+    color: rgb(197, 245, 149);
+    margin: 0 auto;
+}
+/* table{
+    border:  2px solid black;
+} */
+td ,th{
+    border:  2px solid black;
+    padding: 5px;
+}
+
+.user-card {
+    border: 5px solid;
+    background-color: cornflowerblue;
+    padding: 0 5px;
+    margin-bottom: 10px;
+  }
+  .user-name ,.user-email{
+      background-color: pink;
+      margin: 0;
+      padding: 5px;
+  }
